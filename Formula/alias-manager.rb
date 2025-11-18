@@ -1,8 +1,8 @@
 class AliasManager < Formula
   desc "Lightweight CLI tool to manage your shell aliases efficiently"
   homepage "https://github.com/kazetachinuu/alias_manager"
-  url "https://github.com/kazetachinuu/alias_manager/archive/v2.1.2.tar.gz"
-  sha256 "d999a939b6277beb6b4869fe536e450ace30cd5dee3336286685083583fb52ff"
+  url "https://github.com/kazetachinuu/alias_manager/archive/v2.1.3.tar.gz"
+  sha256 "118a199775cc4cf2e637c88d975c8c83fd317fb34710ed6eab48a981104181a0"
   license "MIT"
 
   def install
